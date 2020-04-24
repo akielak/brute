@@ -1,0 +1,10 @@
+[package]
+name = "brute"
+version = "0.1.0"
+authors = ["akielak <kielaka@wp.pl>"]
+edition = "2018"
+
+[dependencies]
+md5 = "^0.7"
+structopt = { version = "^0.3", default-features = true}
+num="0.2.1"
